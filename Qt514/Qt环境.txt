@@ -1,0 +1,4 @@
+Qt 5.14.0
+Qt Creator 4.11.0
+编译器:msvc2017 64位
+系统:windows10 64位
